@@ -2,5 +2,5 @@
 
 Queens College Spring 2020
 
-1. K-Mean-Clustering
-2. Huffman Encoding
+1. Simulation Assignment
+2. Producer Consumer Assignment
